@@ -22,6 +22,9 @@ I combined these four to the size that one of them was previously:
 
 And added flipbook functionality to my material so i could select them.
 
+Layer 1: Sigil
+This quarter note sigil is meant to try and start a music motif for all the related abilities you would use. It has a gradient inside it for a nice detail, and is eroded by a seperate mask.  
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/45f65b2e-d3ad-46e6-af65-2193819b08e3" />  
 
 
 
