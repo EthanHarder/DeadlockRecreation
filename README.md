@@ -42,6 +42,17 @@ Layer 4: Shockwave stills
 These are maybe my weakest addition. I really like the idea of them in theory, but im not sure if my texture holds up. i made them transparent so the large size wouldnt impact visibilty. I like the tone (and had fun sneaking more music symbols in).  
 <img width="927" height="506" alt="image" src="https://github.com/user-attachments/assets/18c70b31-2b28-4383-a0da-aa868b55e598" />
 
+Layer 5: ground impact (and the coloured one)
+a combination of darker sprites on the ground imply damage to the floor as caused by the attack. adds impact and gravitas, and helps the ability feel heavier and not vanish as fast while still implying the attack timings
+<img width="688" height="349" alt="image" src="https://github.com/user-attachments/assets/dac3fa89-1ad9-4f0c-8137-4a277cb7da2b" />
+Important parameters were the corrosion values, the colours (a muted black that is juuust slightly orange), and delay timing on spawn.
+
+Layer 6: all the explosion stuff
+These additional components add some lingering qualities like layer 5, but also impact and some more movement, which is nice since the effect is mainly stationary.
+<img width="823" height="594" alt="image" src="https://github.com/user-attachments/assets/9ea3b55d-43e7-4129-866e-99ecd670a506" />  
+The notes wiggle a bit with some sine wave manipulation, and the rest all radially burst from the center with variable size, speeds, and angular velocity.  
+
+
 
 
 
