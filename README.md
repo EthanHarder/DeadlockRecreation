@@ -1,4 +1,12 @@
 # DeadlockRecreation
+
+(This readme was for Lab3. you dont need to read this for the final submission, but I havent gotten the grade back so im not going to remove it).  
+
+
+
+
+
+
 Lab 3 Breakdown Ethan Harder 100877874
 In scene:
 https://youtu.be/yucvVJGXQjs
