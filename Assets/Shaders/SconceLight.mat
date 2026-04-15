@@ -57,8 +57,8 @@ Material:
     - _RimSize: 19.47
     - _Specularity: 0
     m_Colors:
-    - _InnerColor: {r: 0.9245283, g: 0.8713004, b: 0.49279103, a: 1}
-    - _OuterColor: {r: 0.5568628, g: 0.15261184, b: 0, a: 1}
-    - _RimColor: {r: 1, g: 0.6329938, b: 0.25943398, a: 1}
+    - _InnerColor: {r: 1.6096973, g: 1.5170221, b: 0.857999, a: 1}
+    - _OuterColor: {r: 0.98833734, g: 0.27086022, b: 0, a: 1}
+    - _RimColor: {r: 22.627417, g: 14.323015, b: 5.870321, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1

@@ -10,6 +10,8 @@ public class Projectile : MonoBehaviour
     [SerializeField]
     private GameObject HitFlashObj;
 
+    private GameObject HitFlashRef;
+
     public float speed;
     private void Start()
     {
@@ -18,7 +20,8 @@ public class Projectile : MonoBehaviour
 
     private void OnCollisionEnter(Collision collision)
     {
-        Instantiate(HitFlashObj, transform.position, Quaternion.identity);
+        HitFlashRef = Instantiate(HitFlashObj, transform.position, Quaternion.identity);
+        HitFlashRef.transform.rotation = collision.transform.rotation;
         Destroy(this.gameObject);
     }
 }

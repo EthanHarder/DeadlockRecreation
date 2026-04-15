@@ -59,6 +59,15 @@
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
+                },
+                {
+                    "name": "ExitScreen",
+                    "type": "Button",
+                    "id": "a67275a8-750c-4035-b048-c930a6736bd0",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
                 }
             ],
             "bindings": [
@@ -263,11 +272,22 @@
                 {
                     "name": "",
                     "id": "6dae57c7-f5af-48c7-bfeb-0f46102902ff",
-                    "path": "<Keyboard>/1",
+                    "path": "<Keyboard>/2",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
                     "action": "Ability1",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "b475b622-6a7f-4edd-bef5-a2d8c5181d60",
+                    "path": "<Keyboard>/escape",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ExitScreen",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }

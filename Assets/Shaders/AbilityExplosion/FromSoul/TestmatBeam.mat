@@ -38,12 +38,12 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _InnerAngle: 1.2
+    - _InnerAngle: 0.76
     - _ObjectScale: 1.43
     - _QueueControl: 0
     - _QueueOffset: 0
     - _alphacut: 5.4
-    - _outerwidth: 0.05
+    - _outerwidth: 0.42
     m_Colors:
     - _Inputcol: {r: 2.9960785, g: 1.2219181, b: 0.7058823, a: 1}
   m_BuildTextureStacks: []
